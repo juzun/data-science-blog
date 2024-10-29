@@ -19,7 +19,7 @@ As mentioned, Stackoverflow Survey data were used. The range of the years used i
 
 The structure of the project directories is following (only relevant directories and files are mentioned):
 - `notebooks`: a directory containing notebooks with separate analyses.
-- `notebooks/data`: a directory containing original data of the Stackoverflow Survey. These are not contained in the repository for their huge size. If you want to run the code, you need to download the `csv` files from [Stack](https://survey.stackoverflow.co/) and apply appropriate naming which can be foung in the notebooks (it's basically just `f"{year}.csv"`).
+- `notebooks/data`: a directory containing original data of the [Stackoverflow Survey](https://survey.stackoverflow.co/). These are not present in `csv` but archived in ZIP. One must extract the data files and rename them in format `f"{year}.csv"`.
 - `notebooks/images`: a directory containing static Plotly graphs showing results of analyses.
 - `udacity_data_science_blog`: a directory containing core of the project. Since this is project is done in very simple way, it contains only one file with utility functions to support analyses in notebooks.
 
