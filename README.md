@@ -11,7 +11,7 @@ This repository contains a final project of the first course of Udacity Nanodegr
 
 ## Introduction
 
-Data from yearly Stackoverflow Survey were used. There are several business questions answered throughout the analysis. The visualisation and deeper explanation of the results can be found on the Medium blog post: https://medium.com/????.
+Data from yearly Stackoverflow Survey were used. There are several business questions answered throughout the analysis. The visualisation and deeper explanation of the results can be found on the [Medium blog post](https://medium.com/@zapletalja/stackoverflow-survey-analysis-0aa55b4a9b48).
 
 ## Data
 
