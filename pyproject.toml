@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "udacity-data-science-blog"
+name = "data-science-blog"
 version = "0.1.0"
 description = ""
 authors = ["Jakub <jakub.zapletal@eon.com>"]

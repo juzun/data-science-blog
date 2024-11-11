@@ -21,7 +21,7 @@ The structure of the project directories is following (only relevant directories
 - `notebooks`: a directory containing notebooks with separate analyses.
 - `notebooks/data`: a directory containing original data of the [Stackoverflow Survey](https://survey.stackoverflow.co/). These are not present in `csv` but archived in ZIP. One must extract the data files and rename them in format `f"{year}.csv"`.
 - `notebooks/images`: a directory containing static Plotly graphs showing results of analyses.
-- `udacity_data_science_blog`: a directory containing core of the project. Since this is project is done in very simple way, it contains only one file with utility functions to support analyses in notebooks.
+- `data_science_blog`: a directory containing core of the project. Since this is project is done in very simple way, it contains only one file with utility functions to support analyses in notebooks.
 
 ## Business Questions
 
